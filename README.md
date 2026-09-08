@@ -11,12 +11,18 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
