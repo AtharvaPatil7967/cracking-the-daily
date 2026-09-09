@@ -15,6 +15,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | ------- |
 | [0056-merge-intervals](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
 | [0775-global-and-local-inversions](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0775-global-and-local-inversions) |
 | [1512-number-of-good-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1512-number-of-good-pairs) |
@@ -73,4 +74,8 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
