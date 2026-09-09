@@ -15,6 +15,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | ------- |
 | [0056-merge-intervals](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
+| [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
 | [0775-global-and-local-inversions](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0775-global-and-local-inversions) |
 | [1512-number-of-good-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2965-find-missing-and-repeated-values) |
@@ -44,4 +45,32 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1512-number-of-good-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
