@@ -1,66 +1,58 @@
 class Solution {
 public:
-    int lower_bound (vector<int>& nums, int target)
+
+    int first_Occurence(vector<int>& nums, int target)
     {
         int n = nums.size();
-
         int low = 0;
         int high = n-1;
 
-        int ans = n;
+        int first = -1;
 
         while(low <= high)
         {
             int mid = low + ((high - low) / 2);
 
-            if(nums[mid] >= target)
+            if(nums[mid] == target)
             {
-                ans = mid;
+                first = mid;
                 high = mid - 1;
             }
-            else
-            {
-                low = mid + 1;
-            }
-        } 
-        return ans;
+            else if(nums[mid] < target) low = mid + 1;
+            else high = mid - 1;
+        }
+        return first;
     }
 
-    int upper_bound(vector<int>& nums, int target)
+    int last_Occurance(vector<int>& nums, int target)
     {
         int n = nums.size();
-
         int low = 0;
         int high = n-1;
 
-        int ans = n;
+        int last = -1;
 
         while(low <= high)
         {
             int mid = low + ((high - low) / 2);
 
-            if(nums[mid] > target)
+            if(nums[mid] == target)
             {
-                ans = mid;
-                high = mid - 1;
-            }
-            else
-            {
+                last = mid;
                 low = mid + 1;
             }
-        } 
-        return ans; 
+            else if(nums[mid] < target) low = mid + 1;
+            else high = mid - 1;
+        }
+        return last;
     }
 
     vector<int> searchRange(vector<int>& nums, int target) {
-        int n = nums.size();
+        int first = first_Occurence(nums, target);
+        if(first == -1) return {-1,-1};
 
-        int lb = lower_bound(nums, target);
-        int ub = upper_bound(nums, target);
+        int second = last_Occurance(nums, target);
 
-        if(lb == n || nums[lb] != target) return {-1,-1};
-
-        return {lb, ub - 1};
-
+        return {first, second};
     }
 };
