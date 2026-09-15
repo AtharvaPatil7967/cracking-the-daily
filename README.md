@@ -29,6 +29,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0540-single-element-in-a-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0704-binary-search) |
 | [0775-global-and-local-inversions](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0775-global-and-local-inversions) |
+| [0875-koko-eating-bananas](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0875-koko-eating-bananas) |
 | [1512-number-of-good-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -70,6 +71,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
