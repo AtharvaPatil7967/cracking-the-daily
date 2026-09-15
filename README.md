@@ -6,6 +6,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0069-sqrtx) |
 | [0775-global-and-local-inversions](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0775-global-and-local-inversions) |
 | [0836-rectangle-overlap](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1512-number-of-good-pairs) |
@@ -61,6 +62,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0033-search-in-rotated-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0162-find-peak-element) |
@@ -99,4 +101,8 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0836-rectangle-overlap) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
