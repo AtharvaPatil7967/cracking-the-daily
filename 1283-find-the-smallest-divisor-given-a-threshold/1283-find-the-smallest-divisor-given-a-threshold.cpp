@@ -3,11 +3,11 @@ public:
     int smallestDivisor(vector<int>& nums, int threshold) {
         int n = nums.size();
 
-        if(n == 0) return -1;
+        if(n==0) return -1;
 
         int maxi = 0;
 
-        for(int i = 0; i < n; i++)
+        for(int i=0; i<n; i++)
         {
             maxi = max(maxi, nums[i]);
         }
@@ -20,13 +20,11 @@ public:
         {
             int mid = low + ((high - low) / 2);
 
-            // FIX: Changed int to long long to prevent accumulation overflow
-            long long total_sum = 0;
+            int total_sum = 0;
 
-            for(int i = 0; i < n; i++)
+            for(int i=0; i<n; i++)
             {
-                // FIX: Cast elements to long long during addition to prevent intermediate overflow
-                total_sum += ((1LL * nums[i] + mid - 1) / mid);
+                total_sum += ((nums[i] + mid - 1) / mid);
             }
 
             if(total_sum <= threshold)
@@ -42,3 +40,4 @@ public:
         return ans;
     }
 };
+
