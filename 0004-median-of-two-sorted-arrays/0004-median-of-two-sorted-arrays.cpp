@@ -4,48 +4,57 @@ public:
         int n = nums1.size();
         int m = nums2.size();
 
-        vector<int> ans;
+        int total_size = (n + m); 
 
         int i = 0;
         int j = 0;
 
+        int count = 0;
+        int index2 = total_size / 2;
+        int index1 = index2 - 1;
+
+        int index1_el = -1;
+        int index2_el = -1;
+        
         while(i<n && j<m)
         {
             if(nums1[i] < nums2[j])
             {
-                ans.push_back(nums1[i]);
+                if(count == index1) index1_el = nums1[i];
+                if(count == index2) index2_el = nums1[i];
+                count ++;
                 i++;
             }
             else
             {
-                ans.push_back(nums2[j]);
+                if(count == index1) index1_el = nums2[j];
+                if(count == index2) index2_el = nums2[j];
+                count ++;
                 j++;
             }
         }
 
         while(i<n)
         {
-            ans.push_back(nums1[i]);   
+            if(count == index1) index1_el = nums1[i];
+            if(count == index2) index2_el = nums1[i];
+            count ++;
             i++;
         }
 
         while(j<m)
         {
-            ans.push_back(nums2[j]);
+            if(count == index1) index1_el = nums2[j];
+            if(count == index2) index2_el = nums2[j];
+            count ++;
             j++;
         }
 
-        int total_size = (double)(n + m);
-        double final_ans = 0;
-
         if(total_size % 2 == 1)
         {
-            final_ans = ans[total_size / 2]; 
+            return index2_el;
         }
-        else if(total_size % 2 == 0)
-        {
-            final_ans = (ans[total_size/2] + ans[(total_size/2) - 1]) / 2.0;      
-        }
-        return final_ans;
+
+        return (double) ((double) (index1_el + index2_el)) / 2.0;
     }
 };
