@@ -39,6 +39,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [1512-number-of-good-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1552-magnetic-force-between-two-balls) |
+| [2643-row-with-maximum-ones](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -62,6 +63,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 ## Matrix
 |  |
 | ------- |
+| [2643-row-with-maximum-ones](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
