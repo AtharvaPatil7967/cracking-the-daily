@@ -8,6 +8,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | ------- |
 | [0050-powx-n](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0069-sqrtx) |
+| [0507-perfect-number](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0507-perfect-number) |
 | [0775-global-and-local-inversions](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0775-global-and-local-inversions) |
 | [0836-rectangle-overlap](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1401-circle-and-rectangle-overlapping) |
