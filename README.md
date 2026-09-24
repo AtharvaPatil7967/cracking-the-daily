@@ -16,6 +16,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2965-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [1901-find-a-peak-element-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2965-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
 | ------- |
