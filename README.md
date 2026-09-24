@@ -6,6 +6,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0507-perfect-number) |
@@ -149,6 +150,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0050-powx-n) |
 ## Greedy
 |  |
@@ -163,4 +165,8 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
