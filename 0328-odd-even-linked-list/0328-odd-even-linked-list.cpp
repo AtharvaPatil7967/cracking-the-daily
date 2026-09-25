@@ -15,34 +15,22 @@ public:
         {
             return head;
         }
-        vector<int> ans;
-        ListNode * temp = head;
 
-        while(temp != NULL && temp -> next != NULL)
+        ListNode * odd = head;
+        ListNode * even = head -> next;
+        ListNode * evenhead = head-> next;
+
+
+        while(even != NULL && even -> next != NULL)
         {
-            ans.push_back(temp->val);
-            temp = temp -> next -> next;
+            odd -> next = odd -> next -> next;
+            even -> next = even -> next -> next;
+
+            odd = odd -> next;
+            even = even -> next;
         }
-        if(temp) ans.push_back(temp -> val);
+        odd -> next = evenhead;
 
-        temp = head -> next;
-
-        while(temp != NULL && temp -> next != NULL)
-        {
-            ans.push_back(temp->val);
-            temp = temp -> next -> next;
-        }
-        if(temp) ans.push_back(temp -> val);
-
-        int index = 0;
-        temp = head;
-
-        while(temp != NULL)
-        {
-            temp -> val = ans[index];
-            index++;
-            temp = temp -> next;
-        }
         return head;
     }
 };
