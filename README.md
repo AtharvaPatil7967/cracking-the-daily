@@ -157,6 +157,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0002-add-two-numbers](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -176,5 +177,6 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0002-add-two-numbers](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
