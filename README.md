@@ -169,4 +169,5 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0002-add-two-numbers) |
+| [0328-odd-even-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
