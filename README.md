@@ -65,6 +65,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -172,5 +173,6 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
