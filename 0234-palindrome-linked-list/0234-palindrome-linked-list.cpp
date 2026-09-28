@@ -13,7 +13,7 @@ public:
     bool isPalindrome(ListNode* head) {
         ListNode * temp = head;
         stack<int> st;
-        bool correct = false;
+
         while(temp != NULL)
         {
             st.push(temp -> val);
@@ -31,6 +31,6 @@ public:
             st.pop();
             temp = temp -> next;
         }
-        return true;
+        return true; 
     }
 };
