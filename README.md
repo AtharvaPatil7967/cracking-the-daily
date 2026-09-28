@@ -67,10 +67,12 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [1512-number-of-good-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2965-find-missing-and-repeated-values) |
@@ -179,6 +181,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0002-add-two-numbers](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0328-odd-even-linked-list) |
