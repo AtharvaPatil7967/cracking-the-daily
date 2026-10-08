@@ -47,6 +47,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [1552-magnetic-force-between-two-balls](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1901-find-a-peak-element-ii) |
+| [2540-minimum-common-value](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2965-find-missing-and-repeated-values) |
 | [3467-transform-array-by-parity](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3467-transform-array-by-parity) |
@@ -69,12 +70,14 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0234-palindrome-linked-list) |
+| [2540-minimum-common-value](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [1512-number-of-good-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2540-minimum-common-value](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -114,6 +117,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [1552-magnetic-force-between-two-balls](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1901-find-a-peak-element-ii) |
+| [2540-minimum-common-value](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
