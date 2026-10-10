@@ -21,32 +21,20 @@ public:
             return NULL;
         }
 
-        ListNode * temp = head;
-        int count = 0;
+        ListNode * fast = head;
+        ListNode * slow = head;
 
-        while(temp != NULL)
+        fast = fast -> next -> next;
+
+        while(fast != NULL && fast -> next != NULL)
         {
-            count++;
-            temp = temp -> next;
+            slow = slow -> next;
+            fast = fast -> next -> next;
         }
 
-        int result = (count / 2);
-
-        temp = head;
-
-        while(temp != NULL)
-        {
-            result--;
-            if(result == 0)
-            {
-                ListNode * middle = temp -> next;
-                temp -> next = temp -> next -> next;
-                delete(middle);
-                break;
-            }
-            temp = temp -> next;
-        }
-
+        ListNode * middle = slow -> next;
+        slow -> next = slow -> next -> next; 
+        delete(middle);
         return head;
 
     }
