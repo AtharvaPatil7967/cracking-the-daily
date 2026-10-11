@@ -50,6 +50,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [2333-minimum-sum-of-squared-difference](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2965-find-missing-and-repeated-values) |
 | [3467-transform-array-by-parity](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -216,4 +217,8 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
