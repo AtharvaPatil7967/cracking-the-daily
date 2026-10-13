@@ -135,6 +135,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -148,6 +149,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -201,6 +203,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0002-add-two-numbers](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0141-linked-list-cycle) |
@@ -223,9 +226,14 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0023-merge-k-sorted-lists) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2778-sum-of-squares-of-special-elements) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
