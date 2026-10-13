@@ -54,6 +54,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2965-find-missing-and-repeated-values) |
 | [3467-transform-array-by-parity](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [1552-magnetic-force-between-two-balls](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3467-transform-array-by-parity](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3467-transform-array-by-parity) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
@@ -183,6 +185,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0410-split-array-largest-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
