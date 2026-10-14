@@ -60,6 +60,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | ------- |
 | [0056-merge-intervals](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0148-sort-list) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3467-transform-array-by-parity](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3467-transform-array-by-parity) |
@@ -76,6 +77,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0876-middle-of-the-linked-list) |
@@ -136,6 +138,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -150,6 +153,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -208,6 +212,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0061-rotate-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0234-palindrome-linked-list) |
