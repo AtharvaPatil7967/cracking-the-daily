@@ -231,6 +231,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0234-palindrome-linked-list) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -258,4 +259,9 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | ------- |
 | [0125-valid-palindrome](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
