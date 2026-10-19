@@ -47,6 +47,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [1552-magnetic-force-between-two-balls](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2643-row-with-maximum-ones) |
@@ -62,6 +63,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0148-sort-list) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3467-transform-array-by-parity](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3467-transform-array-by-parity) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -134,6 +136,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [1552-magnetic-force-between-two-balls](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
