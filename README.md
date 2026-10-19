@@ -77,6 +77,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0148-sort-list) |
@@ -255,5 +256,6 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
