@@ -234,6 +234,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -265,6 +266,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0344-reverse-string](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -274,4 +276,5 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
