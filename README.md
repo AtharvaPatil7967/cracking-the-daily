@@ -275,6 +275,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [1021-remove-outermost-parentheses](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3110-score-of-a-string](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
