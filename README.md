@@ -267,6 +267,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0344-reverse-string) |
