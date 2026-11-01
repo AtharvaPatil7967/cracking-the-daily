@@ -90,6 +90,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0443-string-compression](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2540-minimum-common-value) |
 ## Hash Table
@@ -243,6 +244,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [1021-remove-outermost-parentheses](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2000-reverse-prefix-of-word) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -284,6 +286,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [1768-merge-strings-alternately](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2000-reverse-prefix-of-word) |
 | [3110-score-of-a-string](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
