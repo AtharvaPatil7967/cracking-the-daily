@@ -10,6 +10,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0013-roman-to-integer](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0507-perfect-number) |
 | [0775-global-and-local-inversions](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0775-global-and-local-inversions) |
 | [0836-rectangle-overlap](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0836-rectangle-overlap) |
@@ -35,6 +36,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0162-find-peak-element](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0704-binary-search) |
