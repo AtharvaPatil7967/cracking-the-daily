@@ -11,6 +11,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0050-powx-n](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0507-perfect-number) |
 | [0775-global-and-local-inversions](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0775-global-and-local-inversions) |
 | [0836-rectangle-overlap](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0836-rectangle-overlap) |
@@ -37,6 +38,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0240-search-a-2d-matrix-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0704-binary-search) |
@@ -66,6 +68,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0056-merge-intervals](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0148-sort-list) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2333-minimum-sum-of-squared-difference) |
