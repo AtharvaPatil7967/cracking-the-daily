@@ -21,6 +21,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [2769-find-the-maximum-achievable-number](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [3467-transform-array-by-parity](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
