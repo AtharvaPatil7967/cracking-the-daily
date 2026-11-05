@@ -47,6 +47,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0875-koko-eating-bananas](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1539-kth-missing-positive-number) |
@@ -71,6 +72,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0088-merge-sorted-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0148-sort-list) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -96,6 +98,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0344-reverse-string](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -148,6 +151,7 @@ One DSA problem a day to engineer a better career. My daily commitment to master
 | [0875-koko-eating-bananas](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AtharvaPatil7967/cracking-the-daily/tree/master/1552-magnetic-force-between-two-balls) |
